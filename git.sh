@@ -1,5 +1,5 @@
 #!/bin/bash
-#  Script generating commits
+# Script generating commits
 for (( i=$2; i >= 1; i-- ))
 do
 
